@@ -104,5 +104,5 @@ In a medical screening context, **recall matters more than precision** — it is
 
 ## 👤 Author
 
-**[Your Name]**  
-[LinkedIn Profile](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**[QUEEN ABICHE]**  
+[LinkedIn Profile](https://www.linkedin.com/in/queen-abiche-59356b213) | [GitHub](https://github.com/QUEENOCHANYAABICHE)
